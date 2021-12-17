@@ -1,0 +1,35 @@
+body{
+    background-color: royalblue;
+    color:rgb(252, 187, 127);
+}
+.heading{
+    width: 80%;
+    font-size:40px ;
+}
+.name_objects{
+    color: silver;
+}
+#camera{
+    width: 300px;
+    height: 300px;
+    border:2px dashed coral;
+}
+
+#Object_name{
+    color: lightsteelblue;
+}
+
+#Accuracy{
+    color: lightsteelblue;
+}
+
+.footer{
+    position: fixed;
+    bottom:0;
+    width:100%;
+    text-align: center; 
+    background-color: lightslategray;
+    font-size: 20px;
+    color:whitesmoke;
+    padding: 5px;
+}
